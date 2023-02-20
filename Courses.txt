@@ -1,0 +1,96 @@
+MICROSOFT
+
+----------Microsoft Learn: (https://learn.microsoft.com/en-in/users/haswanthakula-6775/certifications)----------
+
+CERTIFICATIONS:
+
+1.) Microsoft Certified: Security, Compliance, and Identity Fundamentals*
+Earned on 31 January 2023
+
+2.) Microsoft Certified: Dynamics 365 Fundamentals (CRM)*
+Earned on 29 January 2023
+
+3.) Microsoft Certified: Azure Data Fundamentals*
+Earned on 26 January 2023
+
+4.) Microsoft Certified: Azure Fundamentals*
+Earned on 26 January 2023
+
+5.) Microsoft Certified: Azure AI Fundamentals*
+Earned on 21 January 2023
+
+----------Microsoft Advertising Learning Lab: (https://learninglab.about.ads.microsoft.com/learning-profile/)----------
+
+CERTIFICATIONS:
+
+1.) Digital Advertising Fundamentals Learning Path*
+
+2.) Native & Display Advertising Learning Path
+
+3.)Search Advertising Learning Path
+
+4.)Shopping Advertising Learning Path
+
+
+AWS
+
+----------AWS Academy: (https://awsacademy.instructure.com/courses/20502)----------
+
+1.) AWS Academy Cloud Foundations [20502]*
+
+----------AWS Educate: (https://www.awseducate.com/student/s/)----------
+
+1.) Getting Started with Storage (Lab)
+
+----------AWS Skill Builder: (https://explore.skillbuilder.aws/learn/mycourses)----------
+
+1.) AWS Cloud Practitioner Essentials
+
+
+
+ORACLE
+
+----------Oracle Academy: (https://myacademy.oracle.com/lmt/lmtLogin.prMenu?in_sessionid=55545103J530A400)----------
+
+1.) DFo Database Foundations Learner - English
+
+2.) JFo Java Foundations Learner - English
+
+3.)OCI Foundations Associate
+
+4.) OCIFo I Oracle Cloud Infrastructure Foundations I Learner - English
+
+5.) OCIFo II Oracle Cloud Infrastructure Foundations II Learner - English
+
+
+
+SERVICE NOW
+
+----------Service Now: (https://nowlearning.servicenow.com/lxp)----------
+
+1.)ServiceNow Fundamentals On Demand
+
+
+CISCO
+
+----------Cisco Networking Academy: (https://www.netacad.com/portal/learning)----------
+
+Network Development Group (NDG) Linux*
+
+
+----------Cisco Thing Qbator: (https://thingqbator.nasscomfoundation.org/home/dashboard)----------
+
+HTML & CSS
+
+
+----------Cisco Skills For All: (https://skillsforall.com/dashboard)----------
+
+Networking Essentials
+Networking Basics
+Introduction to Cybersecurity
+
+
+
+
+
+
